@@ -15,7 +15,7 @@
 
 코드를 실행하기 전에 빗썸 이벤트 페이지에서 이벤트 참여 신청과 마케팅 수신 동의를 완료하는 것이 좋습니다.
 
-![수신동의 관련 유의사항](https://user-images.githubusercontent.com/YOUR_GITHUB_ID/IMAGE_ID_1.png)
+![수신동의 관련 유의사항](https://github.com/user-attachments/assets/3a8bca6b-943d-4baa-ae45-0b9a90248c6d)
 
 ## 2. 🔑 빗썸 API 키 발급 (거래 권한만 승인)
 
@@ -29,7 +29,7 @@
 
 구매하고자 하는 코인의 현재 가격과 원화 마켓 코드 (예: `KRW-XRP`, `KRW-BTC` 등)를 빗썸 웹사이트에서 정확히 조회합니다.
 
-![이벤트 참여 방법](https://user-images.githubusercontent.com/YOUR_GITHUB_ID/IMAGE_ID_2.png)
+![이벤트 참여 방법](https://github.com/user-attachments/assets/3358c08f-9e74-4d6c-8fd1-d30587e88009)
 
 ## 5. 🛠️ 기본 의존성 설치
 
@@ -71,7 +71,8 @@ Node.js 환경에서 코드를 실행하기 위해 필요한 라이브러리를 
 
 연동 지원금이 들어온 후에, 이를 최종적으로 귀속 상태로 만들기 위해 다시 한번 1~7번 단계를 반복하여 거래를 완료해야 할 수 있습니다. 빗썸 이벤트 유의사항을 확인하세요
 
+![지원금 지급일로부터 30일](https://github.com/user-attachments/assets/3e26f897-2d0b-47ec-84b8-a0b4ffc1134d)
+
 
 😭 저는 반려됐습니다..
-
-![ㅠㅠ..](https://user-images.githubusercontent.com/YOUR_GITHUB_ID/IMAGE_ID_2.png)
+![ㅠㅠ](https://github.com/user-attachments/assets/6f4a9901-f955-4961-84f5-d0d4dd228e31)
