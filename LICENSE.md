@@ -1,5 +1,4 @@
-Beerware License
-/*
+
  * ------------------------------------------------------------
  * "THE BEERWARE LICENSE" (Revision 42):
  * <jipmj12@gmail.com> wrote this code. As long as you retain this 
@@ -7,4 +6,3 @@ Beerware License
  * meet someday, and you think this stuff is worth it, you can
  * buy me a beer in return.
  * ------------------------------------------------------------
- */
